@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication1">
+</Property><Property Name="File di soluzione" Value="C:\Users\Jordan\Desktop\Delector\WindowsApplication1.sln">
+</Property><Property Name="Date" Value="venerdì 30 marzo 2012">
+</Property><Property Name="Time" Value="21:04">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication1.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

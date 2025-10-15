@@ -1,0 +1,67 @@
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\bin\WindowsApplication1.exe
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\bin\WindowsApplication1.pdb
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\bin\WindowsApplication1.xml
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jordan\Desktop\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.exe
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.pdb
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.xml
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\bin\WindowsApplication1.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Delector\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\bin\Deleter.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\bin\Deleter.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\bin\Deleter.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\bin\Deleter.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\bin\Deleter.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\bin\Deleter.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.Form2.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\Deleter.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Deleter\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.exe
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.xml
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.pdb
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\bin\Deleter.exe
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\bin\Deleter.pdb
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\bin\Deleter.xml
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Form2.resources
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\Deleter.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\Deleter\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
